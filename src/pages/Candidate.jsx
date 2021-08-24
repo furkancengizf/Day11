@@ -3,7 +3,7 @@ import React from 'react'
 export default function Candidate() {
    return(
        <div>
-       Candidates
+           Candidates
        <div>
    )
 
